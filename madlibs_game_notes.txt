@@ -1,0 +1,85 @@
+Madlibs notes and tips
+1. The point of the game is to input a bunch of variables
+2. Later planning on making the game choose the number of inputs
+3. For now will use input from this video https://www.youtube.com/watch?v=pr3OiTIkCFk
+4. INPUT 
+ - Adjective e.g 5"9"
+ - Adjective e.g wet
+ - Celebrity e.g Rihanna
+ - Celebrity e.g Gal Gadot
+ - Animal e.g lion
+ - Verb e.g sweat
+ - Noun e.g dildo
+ - Noun e.g hat
+ - Part of Body e.g nose
+ - Adverb e.g moistly
+ - Adjective e.g succulant
+ - Adverb e.g kindly
+ - Adjective e.g decadent
+ - Adjective e.g hairy
+ - Part of Body e.g head
+ - Adjective - god like
+ - Noun e.g jizz
+ - Noun e.g diva cup
+ - Person in Room e.g Temwa
+ Using the above example words the following sentence was formed.
+ 
+ Sentence name [MY_DREAM_MAN]
+ My "Dream Man" should, first of all be very [5'9"] and [Wet]. He should have a physique like [Rihanna], a profile like [Gal Gadot], and the intelligence of a/an [Lion]. He must be polite and must always remember to [Sweat] my [Dildo], to tip his [Hat] and to take my [Nose] when crossing the street. He should move [Moistly], have a/an [Succulent] voice, and should always dress [Kindly]. I would also like him to be a/an [Decadent] dancer, and when we are alone he should whisper [Hairy] nothings into my [Head] and hold my [god like JIZZ]. I know a/an [Diva Cup] is hard to find. In fact the only one I can think of is [Temwa]
+ 
+ Sentence Name [LOVE LETTER 3]
+ - Name of person in room e.g Temwa
+ - Noun e.g piano
+ - Superlative (Ending in EST) e.g sexiest
+ - Noun e.g pineapple
+ - Body Part e.g balloon knot
+ - Verb (Ending in "-ing") e.g f***ing
+ - Noun e.g motorcycle
+ - Verb e.g cooking
+ - Event e.g coachella
+ - Day of the Week e.g Thursday
+ - Verb e.g riding
+ - Verb e.g eating
+ - Place e.g church
+ - Time Span e.g 69 years
+ - Verb e.g simping
+ - Adverb e.g frictionlessly
+ - Name of Person in Room e.g Albert 
+ 
+ Dear [Temwa] it has come to my [Piano] that you are the [Sexiest] girl in the [Pineapple] my [Balloon knot] starts [f***ing] a [Motorcycle] everytime you speak. I would like to [Cooking] if you went to the [Coachella] with me next week [Thursday] if you [Riding] please [Eating] me at the [Church] in [69 years] I [Simping] you and everything about you, [Frictionlessly], [Albert]
+ 
+ Sentence Name [The Speech Song Part 1]
+  - Noun e.g bicep
+  - Number e.g 420
+  - Noun (plural) e.g tits
+  - Occupation [Plural] e.g pornstars
+  - Noun e.g dildo hat
+  - Adjective e.g slimey
+  - Verb e.g cum
+  - Noun e.g bra
+  - Noun e.g thong
+  - Verb [Ending in "-ed"] e.g dominated
+  - Number e.g 69
+  - Noun (plural) e.g sweet ass boobs
+  - Verb e.g peg
+  - Adjective e.g flaccid
+  - Adjective e.g sloppy
+  - Noun e.g pornhub
+  - Verb e.g throb
+  - Noun e.g sex swing
+  - Verb (ending in "-ing") e.g penetrating
+  - Noun e.g cactus
+  - Noun (plural) e.g fritos lol
+  - Verb (ending in "-ed") e.g fricked
+  - Body Part e.g seplum
+  - Verb e.g stroke
+  - Time (O'Clock) sex o'clock
+  - Adjective e.g massive
+  - Day e.g thursday
+  - Verb (ending in "s") e.g suckles
+  - Verb e.g crouch
+  - Adjective e.g spiky
+  - Body Part (Plural) e.g toes
+  - Verb e.g mount
+  
+  Ladies and gentlemen of the [Bicep] of [420] were [Tits]. If I could offer you just one tip for the future [Tits] would be it, the long term benefits of [Tits] have been proven by [Pornstars] whereas the rest of my advice has no [Dildo Hat]. More reliable than my own [Slimey] experience, I will [Cum] this advice now. You will not understand the [Bra] and [Thong] of your youth until they have [Dominated] but trust me, in [69] years, you look back at [Sweet Ass Boobs] of yourself and recall in a way you can't [Peg] now how [Flaccid] you really look.  You are not as [Sloppy] as you imagine, don't worry about the [Pornhub], or worry but know that worrying is as effecting as trying to [Throb] a [Sex Swing] equated by [Penetrating] a [Cactus] a real [Fritos lol] in your life. Are apt to things that never [Fricked] your [Seplum], the kind that [Strokr] you at [sex o'clock] on some [Massive] [Thursday]. Do one thing everyday that [Suckles] you. [Crouch] don't be [Spiky] with other people's [Toes], don't put up with people who are spiky with yours, [Mount] but trust me on the [Tits]
